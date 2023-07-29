@@ -1,0 +1,29 @@
+*{
+margin: 0;
+padding: 0;    
+}
+h3 {
+    font-family: 'Times New Roman', Times, serif;
+    color: red;
+}
+
+.h-test {
+    color: blueviolet;
+}
+
+.paragraph {
+    color: aquamarine;
+    font-weight: bold;
+    font-style: italic;
+}
+
+#paragrap-2 {
+    color: blue;
+}
+.box{
+    background-color: lightgrey;
+        width: 300px;
+        border: 15px solid green;
+        padding: 50px;
+        margin: 50px;
+}

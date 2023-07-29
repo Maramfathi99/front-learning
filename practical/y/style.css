@@ -1,0 +1,33 @@
+h4 {
+     font-weight: bold;
+     font-family: "Courier New", Courier, monospace;
+     color: rgb(213, 185, 239);
+     background-color: gray;
+ }
+
+ .paragraph-1 {
+     font-style: italic;
+     font-size: medium;
+     font-family: 'Times New Roman', Times, serif;
+     color: burlywood;
+     background-color: brown;
+ }
+
+ #paragraph-2 {
+     font-style: italic;
+     font-size: medium;
+     font-family: 'Times New Roman', Times, serif;
+     color: burlywood;
+     background-color: brown;
+ }
+
+ .box {
+     background-color: blue;
+     border: solid 10px red;
+     width: 200px;
+     margin: 20px
+         /* top right bottem left*/
+     ;
+     padding: 100px;
+ }
+
